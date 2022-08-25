@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ada7e653190021a43a2c916a6deea5ec, type: 3}
+  m_Name: ShopItemData
+  m_EditorClassIdentifier: 
+  itemLists:
+  - prefab: {fileID: 3198169829640675433, guid: f378b09a70b01b74f9c39ebbbb65faf1,
+      type: 3}
+    id: 0
+    price: 0
+  - prefab: {fileID: 969666681361857202, guid: cf355518d1900ef4ea14116373607f67, type: 3}
+    id: 1
+    price: 500
+  - prefab: {fileID: 5190337186432723374, guid: 4148e2509b1a46f429f870debdfc90c3,
+      type: 3}
+    id: 2
+    price: 1000
+  - prefab: {fileID: 2601584855453052649, guid: 67541337b85f6244597e883e5a7aa8e1,
+      type: 3}
+    id: 3
+    price: 1500
+  - prefab: {fileID: 8627336627459567314, guid: b8abb1bfd65616d4aa441e8207aac7e1,
+      type: 3}
+    id: 4
+    price: 2000
+  - prefab: {fileID: 1647861050677375003, guid: 5471bb04ad426574ba8621ce30e44960,
+      type: 3}
+    id: 5
+    price: 2500
